@@ -5,6 +5,10 @@ Gives you number of hosts avaliable in the subnet along with other network node 
 
 Author: Swapnasheel Sonkamble
 Usage: python Subnet_calculator.py 
+    - Enter IP address:
+    - Enter the subnet mask:
+    - Gives you wildcard mask, broadcast IP address and the network IP address
+    - Ask's if you want to get a random IP address
 
 Can add:
     - Argparse
